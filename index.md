@@ -110,7 +110,17 @@ This workshop will be held in conjunction with SIAM International Conference on 
 ## Gallery
 <p align="center">
   <img src="Fig1.png" width="400">
-  <p>Fig. 1 Group Photos. <i>Upper</i>: Morning session; <i>Lower</i>: Afternoon session</p>
+  <p>Fig. 1 Group Photos. Upper: Morning session; Lower: Afternoon session.</p>
+</p>
+
+<p align="center">
+  <img src="Fig2.png" width="400">
+  <p>Fig. 2 Snapshots of speakers in morning sessions.</p>
+</p>
+
+<p align="center">
+  <img src="Fig3.png" width="400">
+  <p>Fig. 3 Snapshots of speakers in afternoon sessions.</p>
 </p>
 
 <!---
