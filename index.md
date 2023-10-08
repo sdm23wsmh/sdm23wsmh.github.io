@@ -109,8 +109,8 @@ This workshop will be held in conjunction with SIAM International Conference on 
 
 ## Gallery
 <p align="center">
-  <img src="Fig1.png" width="350">
-  <p>This is a paragraph</p>
+  <img src="Fig1.png" width="400">
+  <p>Fig. 1 Group Photos. <i>Upper</i>: Morning session; <i>Lower</i>: Afternoon session</p>
 </p>
 
 <!---
