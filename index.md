@@ -108,8 +108,9 @@ This workshop aims to demonstrate the recent research progress of data science, 
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM23) on April 27 - 29, 2023, Minneapolis, MN, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/lodging-and-support/hotel-transportation-information/sdm23-hotel-transportation-information).
 
 ## Gallery
-<p align="center" title="title to show">
+<p align="center">
   <img src="Fig1.png" width="350">
+  <p>This is a paragraph</p>
 </p>
 
 <!---
