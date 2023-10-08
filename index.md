@@ -109,7 +109,7 @@ This workshop will be held in conjunction with SIAM International Conference on 
 
 ## Gallery
 <p align="center" title="title to show">
-  <img src="Fig1.png" width="350" title="hover text">
+  <img src="Fig1.png" width="350">
 </p>
 
 <!---
