@@ -101,7 +101,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 
 [Yinan Wang](https://yinanw-rpi.com/), Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
 
-## Late Workshop
+## Latest Workshop
 * DS2-MH Workshop at [SDM24](https://dssmh.github.io/).
 
 ## Web Chair of this workshop:
